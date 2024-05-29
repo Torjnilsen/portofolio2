@@ -67,6 +67,7 @@ JavaScript
 Getting Started
 link til siden som ligger på netlify
 
-https://dashing-begonia-a090a5.netlify.app
-
-https://github.com/Torjnilsen/museumciense.git
+https://jolly-maamoul-7db5f6.netlify.app/
+https://inquisitive-gnome-5b448a.netlify.app
+https://cheery-stroopwafel-8c3873.netlify.app
+https://taupe-dolphin-7ca289.netlify.app
