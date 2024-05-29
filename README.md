@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+1. semester oppgaven min museum
+![image](portfolio 3.png)
 
-## Getting Started
+Dette er en skjerm bilde av en av mine semester oppgaver
 
-First, run the development server:
+Description
+I denne oppgaven fik jeg i oppgave og lage en nettside til et museum.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+i denne oppgaven har jeg:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+planlagt et prosjekt
+designed en prototype med design programmet Figma
+programert en full nettside
+Bygd med
+HTML
+CSS
+JavaScript
+Getting Started
+link til siden som ligger på netlify
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+https://dashing-begonia-a090a5.netlify.app
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+https://github.com/Torjnilsen/museumciense.git
 
-## Learn More
+2. Examen 1
+![image](portfolio 2.png)
 
-To learn more about Next.js, take a look at the following resources:
+Dette er en skjerm bilde av en av min første examens oppgave
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Description
+I denne oppgaven fik jeg i oppgave og lage en nettside til en blog av valgfrit tema, ved hjelp av wordpress og Flywheel som backend server der jeg lagde blog inlegene mine og hentet i API form .
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+i denne oppgaven har jeg:
 
-## Deploy on Vercel
+planlagt et prosjekt
+designed en prototype med design programmet Figma
+lagd blog inlegg med bruk av wordpress
+programert en full nettside
+Bygd med
+HTML
+CSS
+JavaScript
+link til netlify og github repo
+link til siden som ligger på netlify
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+https://statuesque-froyo-a59e1a.netlify.app
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://github.com/Noroff-FED-Campus-Assignments/fed1-exam-Torjnilsen.git
+
+Eget prosjekt
+![image](portfolio 1.png)
+
+Dette er en skjerm bilde av en av mine egne prosjekter
+
+Description
+jeg startet dette prosjektet ved siden av skolen for. For og få mere erfaring og trening.
+
+i denne oppgaven har jeg:
+
+planlagt et prosjekt
+designed en prototype med design programmet Figma
+programert en full nettside
+Bygd med
+HTML
+CSS
+JavaScript
+Getting Started
+link til siden som ligger på netlify
+
+https://dashing-begonia-a090a5.netlify.app
+
+https://github.com/Torjnilsen/museumciense.git
